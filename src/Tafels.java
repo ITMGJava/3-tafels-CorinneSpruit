@@ -2,7 +2,7 @@ public class Tafels {
     public static void main (String [] arg){
         var x = 9;
         var y = 1;
-//extra tekst voor push
+//extra tekst
         System.out.print(y); System.out.print(" x "); System.out.print(x); System.out.print(" = "); System.out.print(1*x);
         System.out.println();
         System.out.print(y+1); System.out.print(" x "); System.out.print(x); System.out.print(" = "); System.out.print(2*x);
